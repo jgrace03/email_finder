@@ -1,9 +1,9 @@
 #############################################################
-#				         Julia Grace						#
-#					   email_finder.py					    #
-#															#
-#           scrape all email addresses from a website       #
-#															#
+#                         Julia Grace                       #
+#                       email_finder.py                     #
+#                                                           #
+#          scrape all email addresses from a website        #
+#                                                           #
 #############################################################
 
 import sys
