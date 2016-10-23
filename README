@@ -1,0 +1,14 @@
+Email Finder
+Julia Grace
+October 23rd, 2016
+
+Purpose:
+	Scan a website for email addresses
+
+Usage:
+	python email_finder.py <web page>
+	ex. python email_finder.py mit.edu
+
+Required installations:
+	pip install BeautifulSoup
+	pip install Requests
